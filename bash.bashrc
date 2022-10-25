@@ -15,4 +15,4 @@ GREEN="\033[1;32m"
 RED='\033[1;31m'
 NC='\033[0m'
 
-figlet -c -f slant -t 'INSCREVA-SE' | lolcat
+figlet -c -f slant -t 'Gilmar Federal' | lolcat
