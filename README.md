@@ -3,12 +3,12 @@
 
 
 # Editar esse arquivo: 
+linha 18 figlet -c -f slant -t 'Edite aqui' | lolcat
+
 
 ````
 nano bash.bashrc
 ```
-
-na linha 18 figlet -c -f slant -t 'Edite aqui' | lolcat
 
 
 ```
